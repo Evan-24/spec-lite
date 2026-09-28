@@ -1,0 +1,7 @@
+interface:
+  display_name: "Spec Lite"
+  short_description: "Lightweight project context and task contracts"
+  default_prompt: "Use $spec-lite to create or maintain a lightweight project spec."
+
+policy:
+  allow_implicit_invocation: false
